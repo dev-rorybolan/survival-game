@@ -1,0 +1,14 @@
+# Godot-specific
+.import/
+.export/
+export.cfg
+export_presets.cfg
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# VSCode / JetBrains IDEs (optional)
+.vscode/
+.idea/
+
